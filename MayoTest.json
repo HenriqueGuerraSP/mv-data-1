@@ -3,5 +3,11 @@
 	"hobby": [
 		"Dancing"
 	],
-	"ai-links": "\n---\n### AI Resources\n\nProgramming Systems and Libraries:\n\n* [Bon Sai][0]\n* [Article about BonSai][1]\n\n### Learn:\n\n* [AI Programmer's Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)\n\n* [Intro to Recurrent Neural Networks][3]\n\nCommunities\n\n* [AI ON][4]\n* [Grid Talk][5]\nChatbots:\n\n* [A.L.I.C.E][6]\n* [HuBot][7]\n\n[0]: https://bons.ai/\n[1]: https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b\n[2]: http://alumni.media.mit.edu/~jorkin/aibooks.html\n[3]: http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/\n[4]: http://ai-on.org/\n[5]: http://gridtalk.info/\n[6]: http://www.alicebot.org/logo-info.html\n[7]: https://hubot.github.com/\n\t"
+	"ai-links": "\n---\n### AI Resources\n\nProgramming Systems and Libraries:\n\n* [Bon Sai][0]\n* [Article about BonSai][1]\n\n### Learn:\n\n* [AI Programmer's Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)\n\n* [Intro to Recurrent Neural Networks][3]\n\nCommunities\n\n* [AI ON][4]\n* [Grid Talk][5]\nChatbots:\n\n* [A.L.I.C.E][6]\n* [HuBot][7]\n\n[0]: https://bons.ai/\n[1]: https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b\n[2]: http://alumni.media.mit.edu/~jorkin/aibooks.html\n[3]: http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/\n[4]: http://ai-on.org/\n[5]: http://gridtalk.info/\n[6]: http://www.alicebot.org/logo-info.html\n[7]: https://hubot.github.com/\n\t",
+	"title": "Mavo App Test",
+	"subtitle": "Foundation themery",
+	"blogpost": [
+		"\n\t",
+		"This is a new blogpost\n"
+	]
 }
