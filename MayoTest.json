@@ -15,9 +15,10 @@
 			"blog-title": {
 				"blog-post-date": "3/6/2016"
 			},
-			"blog-head-image": "https://placehold.it/850x150",
+			"blog-head-image": "https://picsum.photos/800/150",
 			"blog-paragraph": [
-				"Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus."
+				"Henry the 8th, I am, I am.",
+				"I'm Henry the 8th, I am..."
 			],
 			"author-link": "#",
 			"comment-count": "#"
