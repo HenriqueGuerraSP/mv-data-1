@@ -30,7 +30,12 @@
 			"blog-post-date": "01/01/2019\n",
 			"blog-paragraph": [
 				"i'm a new post added after the pen was made!&nbsp;<br />"
-			]
+			],
+			"author": "Stacie",
+			"commentCount": "well, that would be telling"
+		},
+		{
+			"blog-paragraph": []
 		},
 		{
 			"blog-title": "Awesome blog post title ",
