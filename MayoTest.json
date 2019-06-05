@@ -23,5 +23,24 @@
 			"author-link": "#",
 			"comment-count": "#"
 		}
+	],
+	"blogPost": [
+		{
+			"blog-title": "post 2",
+			"blog-post-date": "01/01/2019\n",
+			"blog-paragraph": [
+				"i'm a new post added after the pen was made!&nbsp;<br />"
+			]
+		},
+		{
+			"blog-title": "Awesome blog post title ",
+			"blog-post-date": "3/6/2016",
+			"blog-head-image": "https://picsum.photos/850/150",
+			"blog-paragraph": [
+				"Lollipop carrot cake jelly brownie icing jelly-o marzipan jelly. Bonbon sugar plum halvah cake powder marzipan ice cream donut. Oat cake cookie chupa chups apple pie gummi bears sesame snaps powder biscuit marzipan.\nJelly-o bear claw cake tootsie roll candy canes. Candy cookie toffee. Marshmallow powder carrot cake halvah."
+			],
+			"author": "Ada Lovelace",
+			"commentCount": "3"
+		}
 	]
 }
