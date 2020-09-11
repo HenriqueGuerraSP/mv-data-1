@@ -32,7 +32,8 @@
 				"i'm a new post added after the pen was made!&nbsp;<br />"
 			],
 			"author": "Stacie",
-			"commentCount": "well, that would be telling"
+			"commentCount": "well, that would be telling",
+			"blog-head-image": "https://cdn.jsdelivr.net/gh/HenriqueGuerraSP/mv-data-1@9c955887d2dcc2b441524725fdeb1087a2bba9b3/images/caveiras01.png"
 		},
 		{
 			"blog-title": "Awesome blog post title ",
