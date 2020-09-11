@@ -29,7 +29,7 @@
 			"blog-title": "post 2",
 			"blog-post-date": "01/01/2019\n",
 			"blog-paragraph": [
-				"<li>i'm a new post added after the pen was made!&nbsp;</li>\n<br />"
+				"i'm a new post added after the pen was made!&nbsp;<br />"
 			],
 			"author": "Stacie",
 			"commentCount": "well, that would be telling"
@@ -43,6 +43,12 @@
 			],
 			"author": "Ada Lovelace",
 			"commentCount": "3"
+		},
+		{
+			"blog-paragraph": []
+		},
+		{
+			"blog-paragraph": []
 		}
 	]
 }
