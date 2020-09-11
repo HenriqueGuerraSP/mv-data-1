@@ -4,7 +4,7 @@
 		"Dancing"
 	],
 	"ai-links": "\n---\n### AI Resources\n\nProgramming Systems and Libraries:\n\n* [Bon Sai][0]\n* [Article about BonSai][1]\n\n### Learn:\n\n* [AI Programmer's Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)\n\n* [Intro to Recurrent Neural Networks][3]\n\nCommunities\n\n* [AI ON][4]\n* [Grid Talk][5]\nChatbots:\n\n* [A.L.I.C.E][6]\n* [HuBot][7]\n\n[0]: https://bons.ai/\n[1]: https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b\n[2]: http://alumni.media.mit.edu/~jorkin/aibooks.html\n[3]: http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/\n[4]: http://ai-on.org/\n[5]: http://gridtalk.info/\n[6]: http://www.alicebot.org/logo-info.html\n[7]: https://hubot.github.com/\n\t",
-	"title": "HG TESTES",
+	"title": "Mavo App Test",
 	"subtitle": "Foundation themery",
 	"blogpost": [
 		"\n\t",
@@ -37,7 +37,7 @@
 		{
 			"blog-title": "Awesome blog post title ",
 			"blog-post-date": "3/6/2016",
-			"blog-head-image": "https://cdn.jsdelivr.net/gh/HenriqueGuerraSP/mv-data-1@84ae0380bcf6a7e153e57a1c523f42e2f44309c7/images/81K9tDVp02L._RI_.jpg",
+			"blog-head-image": "https://cdn.jsdelivr.net/gh/HenriqueGuerraSP/mv-data-1@cbe9fdb11e10954812f2e3666962a1ad8656d3cc/images/81K9tDVp02L._RI_.jpg",
 			"blog-paragraph": [
 				"Lollipop carrot cake jelly brownie icing jelly-o marzipan jelly. Bonbon sugar plum halvah cake powder marzipan ice cream donut. Oat cake cookie chupa chups apple pie gummi bears sesame snaps powder biscuit marzipan.\nJelly-o bear claw cake tootsie roll candy canes. Candy cookie toffee. Marshmallow powder carrot cake halvah."
 			],
